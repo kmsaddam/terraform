@@ -1,7 +1,7 @@
 # Credintials
 # -------------------------
-access_key = "AKIAVWJGBYJDGP6CIMN2"
-secret_key = "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"
+access_key = ""
+secret_key = ""
 
 # EC2 Variables
 # -------------------------
