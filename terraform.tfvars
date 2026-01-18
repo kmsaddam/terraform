@@ -1,7 +1,6 @@
 # Credintials
 # -------------------------
-access_key = ""
-secret_key = ""
+
 
 # EC2 Variables
 # -------------------------
